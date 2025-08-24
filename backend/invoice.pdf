@@ -1,0 +1,1 @@
+{"detail":[{"type":"int_parsing","loc":["path","order_id"],"msg":"Input should be a valid integer, unable to parse string as an integer","input":"ORDER_ID"}]}

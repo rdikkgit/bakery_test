@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+pymysql
+cryptography
+pydantic
+python-dotenv
+reportlab>=4.2
+pip install passlib[bcrypt] PyJWT
